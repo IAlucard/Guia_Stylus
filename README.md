@@ -1,4 +1,4 @@
 Guia_Stylus
 ===========
 
-Guía de Stylus
+Guía de estudio para el aprendizaje de Stylus
